@@ -1,0 +1,65 @@
+.webBanner {
+    width: 100%;
+    height: 1100px;
+    cursor: default;
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    overflow: hidden;
+    display: block;
+    outline: none;
+    margin: 0px auto;
+    position: relative;
+    z-index: 1;
+    background-size: cover;
+    background-image: url(../resources/shantou3.jpg);
+    background-size: cover;
+    /* filter: brightness(0.9); */
+}
+
+.webBanner .webBanner_middle {
+    left: 50%;
+    margin-left: -600px;
+    text-align: left;
+    width: 1200px;
+    height: 1100px;
+    position: absolute;
+}
+
+.title1 {
+    position: absolute;
+    top: 212px;
+    left: 30px;
+    font-weight: 700;
+    transform: translate(2.98949px, -1.68319px);
+    backface-visibility: hidden;
+    z-index: 2;
+}
+
+.title2 {
+    position: absolute;
+    top: 305px;
+    width: 397px;
+    left: 6px;
+    transform: translate(16.7122px, 2.13362px);
+    backface-visibility: hidden;
+    z-index: 2;
+}
+
+.title3 {
+    position: absolute;
+    top: 545px;
+    left: 30px;
+    width: 540px;
+    transform: translate(-1.88325px, -1.89655px);
+    backface-visibility: hidden;
+    height: auto;
+}
+
+.title4 {
+    position: absolute;
+    top: 662px;
+    left: 20px;
+    width: 30px;
+    transform: translate(5.38635px, -1.80172px);
+    backface-visibility: hidden;
+}
