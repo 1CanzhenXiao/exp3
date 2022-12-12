@@ -4,10 +4,9 @@
 人机交互课程的实验三仓库
 
 #### 软件架构
-软件架构说明：
+项目结构说明：
 
 ```
-│  tree.txt
 │  
 ├─css
 │      home_banner.css
@@ -36,6 +35,4 @@
 
 #### 使用说明
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+进入template文件夹，运行index.html文件即可。
